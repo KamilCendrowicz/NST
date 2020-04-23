@@ -9,7 +9,7 @@ We used VGG19 and build a little different program than one shown in our class n
 Our model performed mainly on content images of cartoons which was not a perfect setting at all. We found out that model operates best when content image is a real photo and it contains many objects that are not so close to each other eg. portrait or a landscape, and when a style image is a highly stylised painting or an image eg. abstract artworks or Van Gogh paintings.
 Although our settings were not perfect we think that our model did a good job. We created many merges that our friends want to print in a bigger dimensions and hang on their walls.
 
-We wanted to thank You on opportunity to look deeper into a subject of NST and real usage of AI models.
+We wanted to thank You for opportunity to look deeper into a subject of NST and real usage of AI models.
 
 Jakub Walczak 38682
 Kamil Cendrowicz 38649
